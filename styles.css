@@ -1,0 +1,94 @@
+body{background-image: url('thenga.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    display: block;
+}
+
+nav a:first-child {
+    margin: 30px;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+nav a:nth-child(2){
+    margin: 30px;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+
+nav a:nth-child(3){
+    margin: 30px;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+nav a:nth-child(4){
+    margin: 30px;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+}
+
+nav a:hover{
+    text-decoration: none;
+    padding: auto;
+    transition: all 0.5s ease-in-out;
+    background-color: aqua;
+}
+
+table td{
+    border: 2px solid black;
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+}
+
+section{
+    font-size: 30px;
+    border-bottom: 10px;
+    border-top: 10px;
+}
+input{
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px;
+    background-color: aquamarine;
+    margin: 2px;
+}
+button{
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color:aquamarine;
+}
+p{
+    font-size: 30px;
+}
+li{
+    font-size: 30px;
+}
+.kinara{
+    background-color: aqua;
+}
